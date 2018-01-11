@@ -1,0 +1,2 @@
+model_checkpoint_path: "net-10.ckpt"
+all_model_checkpoint_paths: "net-10.ckpt"
